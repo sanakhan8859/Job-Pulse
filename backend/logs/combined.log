@@ -11,3 +11,13 @@
 2026-08-19 16:49:49 [info]: Starting ingestion run for source="arbeitnow" trigger="scheduled"
 2026-08-19 16:50:04 [info]: Ingestion "arbeitnow" finished: partial | fetched=450 upserted=449 invalid=1 stale=152
 2026-08-19 16:57:28 [info]: SIGINT received, shutting down gracefully
+2026-08-19 17:13:45 [info]: MongoDB connected
+2026-08-19 17:13:45 [info]: Scheduler started: ingestion runs every 30 minute(s)
+2026-08-19 17:13:45 [info]: Server listening on port 5000 [development]
+2026-08-19 17:13:48 [info]: Starting ingestion run for source="arbeitnow" trigger="scheduled"
+2026-08-19 17:13:59 [info]: Ingestion "arbeitnow" finished: partial | fetched=450 upserted=449 invalid=1 stale=6
+2026-08-19 17:30:00 [info]: Starting ingestion run for source="arbeitnow" trigger="scheduled"
+2026-08-19 17:30:11 [info]: Ingestion "arbeitnow" finished: partial | fetched=450 upserted=449 invalid=1 stale=0
+2026-08-19 18:00:00 [info]: Starting ingestion run for source="arbeitnow" trigger="scheduled"
+2026-08-19 18:00:12 [info]: Ingestion "arbeitnow" finished: partial | fetched=450 upserted=449 invalid=1 stale=0
+2026-08-19 18:08:26 [info]: SIGINT received, shutting down gracefully
